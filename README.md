@@ -1,5 +1,5 @@
 # web_scrapping
-*Conteúdo do curso Web Scrapping em Python:*
+**Conteúdo do curso Web Scrapping em Python:**
 - Identificação de informações em website
 - Expressões regulares
 - Biblioteca BeautifulSoup
